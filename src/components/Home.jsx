@@ -104,7 +104,7 @@ const Home = () => {
           <p className="lead text-white">
             Immerse yourself in a universe of captivating stories, thrilling
             adventures, and profound knowledge. At My Bookstore, every book is a
-            journey waiting to be explored.
+            journey waiting to be explored...
           </p>
         </div>
       </div>
