@@ -1,6 +1,5 @@
 {
-  "name": "book-storage",
-  "homepage": "https://kashifbangash79.github.io./book-storage-api-assignment",
+  "name": "book-storage-api-assignment",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -45,5 +44,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "https://kashifbangash79.github.io./book-storage-api-assignment"
 }
